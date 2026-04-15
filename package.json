@@ -5,8 +5,8 @@
   "main": "index.js",
  "scripts": {
  "test": "echo \"Test passed\"",
- "build": "echo \"Build done-\""
-},
+ "build": "echo \"Build done\""
+
   "keywords": [],
   "author": "",
   "license": "ISC"
